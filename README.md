@@ -1,6 +1,9 @@
 ```
 # Aydemir Bank - Simple Banking System
 
+![image](https://github.com/ismailaydemirx/ATM-Game-Csharp/assets/67390681/3553b875-28cd-4ed3-a57b-e65ffcdd2dd4)
+
+
 Aydemir Bank is a simple banking system implemented in C#. It provides basic banking functionalities such as depositing money, withdrawing money, and checking account balance.
 
 ## Features
